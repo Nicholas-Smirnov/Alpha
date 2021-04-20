@@ -41,8 +41,6 @@ In order to physically start coding, you will need to use 3 of backticks, or the
 ```
 AlphaCode ==> RunCode ```
 
-//Code will go here
-
+//Code will go here ```
 ```
-```#
 This will therefore beat
