@@ -29,3 +29,11 @@ For example, if you want to run the code, you would do it like so:
 ```
 AlphaCode ==> RunCode
 ```
+
+The same exact thing would happen if you would want to clear all previous messages or code:
+
+```
+AlphaCode ==> ClearCode
+```
+
+## What is Alpha Coding?
