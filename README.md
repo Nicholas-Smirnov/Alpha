@@ -7,3 +7,10 @@ Alpha is a programming language that is built fully on discord. This discord bot
 This is a programming language that is fully run on discord! 
 This is a very fun and relatively simple programming language!
 Let's get started.
+
+This GitHub Repository has multiple branches. These brances are seen at the corned of this box. Make sure to change the brances to get to a different unit or different lcoation if you need to.
+
+Our Current Branches:
+
+1. What is Alpha Coding
+2. Getting Started
