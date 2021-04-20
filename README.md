@@ -4,7 +4,7 @@
 
 Alpha is a programming language 
 
-```python
+```
 
 for i in range("300"):
 
