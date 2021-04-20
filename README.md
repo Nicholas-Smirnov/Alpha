@@ -36,4 +36,13 @@ The same exact thing would happen if you would want to clear all previous messag
 AlphaCode ==> ClearCode
 ```
 
-## What is Alpha Coding?
+In order to physically start coding, you will need to use 3 of backticks, or the key above your tab key with a wavey sign and a dash. The dash is called a backtick. In order to start coding you will need to format your code to be something like this:
+
+```
+AlphaCode ==> RunCode ```
+
+//Code will go here
+
+```
+```#
+This will therefore beat
