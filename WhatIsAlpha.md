@@ -12,5 +12,5 @@ This GitHub Repository has multiple branches. These brances are seen at the corn
 
 Our Current Branches:
 
-1. What is Alpha Coding
-2. Getting Started
+1. [What is Alpha Coding]
+2. [Getting Started](https://github.com/PythonCoderNick/Alpha/tree/2-%7C-Getting-Started)
