@@ -37,3 +37,5 @@ AlphaCode ==> RunCode ```
 ```
 
 In addition, if you want to end your code, you need to finish off with 3 backticks. 
+
+### Object Types
