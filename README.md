@@ -10,9 +10,4 @@ Let's get started.
 
 NOTE: This is a programming language that is constantly getting changes added to it, so please be gentle as it may not have much at this point.
 
-This GitHub Repository has multiple branches. These brances are seen at the corned of this box. Make sure to change the brances to get to a different unit or different lcoation if you need to.
-
-Our Current Branches:
-
-1. [What is Alpha Coding](https://github.com/PythonCoderNick/Alpha/blob/1-%7C-What-is-Alpha/WhatIsAlpha.md)
-2. [Getting Started](https://github.com/PythonCoderNick/Alpha/blob/2-%7C-Getting-Started/Getting%20Started.md)
+We have our own Wiki so go ahead and join it.
